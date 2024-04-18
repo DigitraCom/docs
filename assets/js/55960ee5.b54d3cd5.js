@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_website=self.webpackChunktest_website||[]).push([[121],{88070:e=>{e.exports=JSON.parse('[{"label":"websocket","permalink":"/docs/tags/websocket","count":2},{"label":"rest","permalink":"/docs/tags/rest","count":1}]')}}]);
