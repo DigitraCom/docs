@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_website=self.webpackChunktest_website||[]).push([[685],{43092:e=>{e.exports=JSON.parse('{"title":"REST","description":"Endpoints:","slug":"/category/rest","permalink":"/docs/category/rest","navigation":{"previous":{"title":"Overview","permalink":"/docs/Overview"},"next":{"title":"General","permalink":"/docs/rest/General"}}}')}}]);
